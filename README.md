@@ -21,3 +21,6 @@ ChessGameV2 là một ứng dụng chơi cờ vua được phát triển hoàn t
    ```bash
    git clone https://github.com/nkdkhtl/ChessGameV2.git
    ```
+2. Chạy qua Eclipse hoặc VSCode
+3. Tải file .exe 
+   
